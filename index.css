@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+
+.btn{
+    width: 300px;
+    height: 60px;
+    border: 3px solid ;
+    cursor: pointer;
+    margin-top: 300px;
+    border-radius: 20px;
+}
